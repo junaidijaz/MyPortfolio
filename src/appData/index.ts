@@ -1,7 +1,7 @@
 // Data for portfolio
 import {
   ExpressjsIcon,
-  JavaScriptIcon,
+  KotlinIcon,
   NestjsIcon,
   NextjsIcon,
   NodejsIcon,
@@ -68,7 +68,7 @@ export const projects = [
 // Service Data
 export const serviceData = [
   {
-    icon: JavaScriptIcon,
+    icon: KotlinIcon,
     title: 'JavaScript Development',
     shortDescription: 'Creating dynamic and interactive web applications using JavaScript.',
   },
@@ -102,8 +102,8 @@ export const serviceData = [
 // Skill List
 export const skillList = [
   {
-    name: 'JavaScript',
-    icon: JavaScriptIcon,
+    name: 'Kotlin',
+    icon: KotlinIcon,
   },
   {
     name: 'TypeScript',

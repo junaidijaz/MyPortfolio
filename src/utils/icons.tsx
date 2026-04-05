@@ -2,7 +2,7 @@ import { FC, SVGProps } from 'react'
 
 import Earning from '../assets/icons/earning.svg'
 import ExpressjsIcon from '../assets/icons/express.svg'
-import JavaScriptIcon from '../assets/icons/javascript.svg'
+import KotlinIcon from '../assets/icons/kotlin.svg'
 import Likes from '../assets/icons/likes.svg'
 import NestjsIcon from '../assets/icons/nest.svg'
 import NextjsIcon from '../assets/icons/nextjs.svg'
@@ -319,7 +319,7 @@ export {
   Facebook,
   GithubIcon,
   Instagram,
-  JavaScriptIcon,
+  KotlinIcon,
   Likes,
   LinkedIn,
   MsgIcon,
