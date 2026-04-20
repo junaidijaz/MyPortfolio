@@ -8,7 +8,10 @@ import {
   ReactIcon,
   SocketIcon,
   TailwindCSS,
-  TypescriptIcon,
+  JetpackComposeIcon,
+  AndroidIcon,
+  JavaIcon,
+  HiltIcon
 } from '../utils/icons'
 
 // Project Data
@@ -69,7 +72,7 @@ export const projects = [
 export const serviceData = [
   {
     icon: KotlinIcon,
-    title: 'JavaScript Development',
+    title: 'Kotlin',
     shortDescription: 'Creating dynamic and interactive web applications using JavaScript.',
   },
   {
@@ -88,8 +91,8 @@ export const serviceData = [
     shortDescription: 'Creating server-rendered React applications with Next.js.',
   },
   {
-    icon: TypescriptIcon,
-    title: 'TypeScript Development',
+    icon: JetpackComposeIcon,
+    title: 'Jetpack Compose',
     shortDescription: 'Ensuring robust and maintainable code with TypeScript.',
   },
   {
@@ -106,23 +109,23 @@ export const skillList = [
     icon: KotlinIcon,
   },
   {
-    name: 'TypeScript',
-    icon: TypescriptIcon,
+    name: 'Jetpack Compose',
+    icon: JetpackComposeIcon,
   },
   {
-    name: 'React.js',
-    icon: ReactIcon,
+    name: 'Java',
+    icon: JavaIcon,
   },
   {
-    name: 'Next.js',
-    icon: NextjsIcon,
+    name: 'MVVM-MVI',
+    icon: AndroidIcon,
   },
   {
-    name: 'Node.js',
-    icon: NodejsIcon,
+    name: 'Hilt',
+    icon: HiltIcon,
   },
   {
-    name: 'Express.js',
+    name: 'Room Database',
     icon: ExpressjsIcon,
   },
   {

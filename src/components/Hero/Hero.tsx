@@ -27,7 +27,7 @@ const Hero = () => {
               href="#"
               aria-label="Connect with me"
               className="bg-accent min-w-32 cursor-pointer rounded-lg px-[14px] py-[10px] text-center text-sm font-medium text-[#00071E]">
-              Hire Me
+              Download CV
             </a>
             <a
               href="#"

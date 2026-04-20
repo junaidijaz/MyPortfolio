@@ -12,7 +12,11 @@ import SocketIcon from '../assets/icons/socket.svg'
 import Star from '../assets/icons/star.svg'
 import TailwindCSS from '../assets/icons/tailwind-css.svg'
 import Timer from '../assets/icons/timer.svg'
-import TypescriptIcon from '../assets/icons/typescript.svg'
+import JetpackComposeIcon from '../assets/icons/jetpackcompose.svg'
+import JavaIcon from '../assets/icons/java.svg'
+import AndroidIcon from '../assets/icons/android.svg'
+import HiltIcon from '../assets/icons/hilt.svg'
+
 
 const PreviewIcon: FC<SVGProps<SVGSVGElement>> = (props) => {
   return (
@@ -320,6 +324,9 @@ export {
   GithubIcon,
   Instagram,
   KotlinIcon,
+  JetpackComposeIcon,
+  AndroidIcon,
+  HiltIcon,
   Likes,
   LinkedIn,
   MsgIcon,
@@ -334,6 +341,6 @@ export {
   StarIcon,
   TailwindCSS,
   Timer,
-  TypescriptIcon,
+  JavaIcon,
   X,
 }
