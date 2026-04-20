@@ -11,14 +11,16 @@ import {
   JetpackComposeIcon,
   AndroidIcon,
   JavaIcon,
-  HiltIcon
+  HiltIcon,
+  JetpcackComponentsIcon,
+  Material3Icon
 } from '../utils/icons'
 
 // Project Data
 export const projects = [
   {
     priority: 1,
-    title: 'Project Alpha',
+    title: 'Bajao',
     shortDescription:
       'A groundbreaking project that revolutionizes the way we approach technology. Built with cutting-edge tools for maximum efficiency, it sets new industry standards.',
     cover:
@@ -125,12 +127,12 @@ export const skillList = [
     icon: HiltIcon,
   },
   {
-    name: 'Room Database',
-    icon: ExpressjsIcon,
+    name: 'Jetpack Components',
+    icon: JetpcackComponentsIcon,
   },
   {
-    name: 'Nest.js',
-    icon: NestjsIcon,
+    name: 'Material3',
+    icon: Material3Icon,
   },
   {
     name: 'Socket.io',

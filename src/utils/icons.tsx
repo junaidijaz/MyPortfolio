@@ -2,6 +2,9 @@ import { FC, SVGProps } from 'react'
 
 import Earning from '../assets/icons/earning.svg'
 import ExpressjsIcon from '../assets/icons/express.svg'
+import JetpcackComponentsIcon from '../assets/icons/android-jetpack-icon.svg'
+import Material3Icon from '../assets/icons/material3.svg'
+
 import KotlinIcon from '../assets/icons/kotlin.svg'
 import Likes from '../assets/icons/likes.svg'
 import NestjsIcon from '../assets/icons/nest.svg'
@@ -343,4 +346,6 @@ export {
   Timer,
   JavaIcon,
   X,
+  JetpcackComponentsIcon,
+  Material3Icon
 }
